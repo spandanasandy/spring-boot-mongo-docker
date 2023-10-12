@@ -87,7 +87,7 @@
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
+				<http://54.144.150.139:8082/artifactory>spring-boot-maven-plugin</http://54.144.150.139:8082/artifactory>
 			</plugin>
 		</plugins>
 	</build>
